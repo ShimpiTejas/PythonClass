@@ -12,3 +12,87 @@ print(y)
 
 z = name.split("s")
 print(z)
+
+
+
+
+'''Session 2
+
+yaha se bhi practice karo
+
+'''
+
+
+'''
+name = "this is a class on string operations"
+
+print(name)
+
+x = name.capitalize()
+
+print(name)
+print(x)
+
+y = name.upper()
+print(y)
+
+z = name.split("s")
+print(z)
+
+'''
+'''
+a = 30
+b = 20
+
+print(a<b)
+
+< , > , ==, <= , >=, &&, ||    
+
+print(a>b)
+
+print(a==b)
+'''
+
+
+
+
+
+
+a = 10
+b = 20
+
+if a > b:
+    print(a)
+elif b > a:
+    print(b)
+elif b == a:
+    print(a)
+    print(b)
+
+    
+    
+    
+
+
+
+
+
+
+
+#Control Statements
+'''
+age = 20
+
+if age < 18:
+    print("You cannot open an Account on Instagram")
+elif age >= 18:
+    print("You can open an account on Instagram")
+    age +=1
+elif age > 50 && age < 60:
+    print("You can open an account, but cant see the reels")
+else:
+    print("Bhai pkka number me di thi na ?")
+    
+ '''   
+
+
