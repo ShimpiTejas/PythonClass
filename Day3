@@ -1,0 +1,14 @@
+name = "this is a class on string operations"
+
+print(name)
+
+x = name.capitalize()
+
+print(name)
+print(x)
+
+y = name.upper()
+print(y)
+
+z = name.split("s")
+print(z)
